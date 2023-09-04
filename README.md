@@ -1,2 +1,2 @@
-# jierubai.github.io
-my personal website
+# PersonalWebsite
+Personal Website using HTML/CSS and Javascript
